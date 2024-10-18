@@ -1,0 +1,63 @@
+[
+    {
+        "questionNo": "Q1",
+        "question": "What type of line is formed by the pencil?",
+        "options": [
+            "Sleeping line",
+            "Standing line",
+            "Curved line",
+            "Slanting line"
+        ],
+        "correct": 0,
+        "secondImg": "./images/1.png",
+        "explanation": "The pencil is lying flat, it makes a sleeping line, which goes straight from side to side."
+    },
+    {
+        "questionNo": "Q2",
+        "question": "What type of line is represented by the rainbow?",
+        "options": [
+            "Sleeping line",
+            "Standing line",
+            "Curved line",
+            "Slanting line"
+        ],
+        "correct": 2,
+        "secondImg": "./images/2.png",
+        "explanation": "A rainbow is made up of a curved line. Curved lines are smooth and bend."
+    },
+    {
+        "questionNo": "Q3",
+        "question": "What kind of shape is represented by the letter 'U'?",
+        "options": [
+            "Open shape",
+            "Closed shape"
+        ],
+        "correct": 0,
+        "secondImg": "./images/4.png",
+        "explanation": "The letter 'U' is an open shape because it has an opening at the top."
+    },
+    {
+        "questionNo": "Q4",
+        "question": "What type of line is formed by the rope?",
+        "options": [
+            "Sleeping line",
+            "Standing line",
+            "Curved line",
+            "Slanting line"
+        ],
+        "correct": 2,
+        "secondImg": "./images/3.png",
+        "explanation": "When the rope is loose and hanging down, it makes a curved line."
+    },
+    {
+        "questionNo": "Q5",
+        "question": "What kind of shape is represented by the card?",
+        "options": [
+            "Open shape",
+            "Closed shape"
+        ],
+        "correct": 1,
+        "secondImg": "./images/5.png",
+        "explanation": "A closed shape is one that has all its sides connected, creating a complete outline without any openings."
+    }
+]
